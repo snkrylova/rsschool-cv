@@ -2,6 +2,8 @@
 
 **Junior Frontend Developer**
 
+![Svetlana Krylova](/assets/images/my-photo.jpg)
+
 ## Contacts
 
 - Location: Tver, Russia
