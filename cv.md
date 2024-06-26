@@ -6,6 +6,7 @@
 
 - Location: Tver, Russia
 - Email: swkrilowa@gmail.com
+- GitHub: snkrylova
 
 ## About me
 
