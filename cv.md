@@ -2,7 +2,7 @@
 
 **Junior Frontend Developer**
 
-![Svetlana Krylova](/assets/images/my-photo.jpg)
+![Svetlana Krylova](/assets/img/my-photo.jpg)
 
 ## Contacts
 
